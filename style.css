@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+}
+
+.main{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+
+.main__part{
+    flex: 1;
+    display: flex;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
